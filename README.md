@@ -15,7 +15,7 @@ Der Main Character geht durch mehrere Level, welche jeweils eine andere psychisc
 Wie steuert man in der Anwendung / Spiel?
 
 ## Author(s)
-Dominik Lust, Sophie Kiara Hebgen
+Dominik Lust, Sophie Chiara Hebgen
 
 ## Credits
 This game was created at the Visualization and Interaction in Digital Media (VIS) program of HS Ansbach. 
