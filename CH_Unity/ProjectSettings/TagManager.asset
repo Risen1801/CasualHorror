@@ -3,18 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Surroundings
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - PlayerInvincible
+  - EnemyBackgroundCollider
+  - Props
   - 
   - 
   - 
@@ -40,4 +42,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4281518147
+    locked: 0
+  - name: Props
+    uniqueID: 2469486821
+    locked: 0
+  - name: Player
+    uniqueID: 1549791975
+    locked: 0
+  - name: Walls
+    uniqueID: 3416452523
     locked: 0
