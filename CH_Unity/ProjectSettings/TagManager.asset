@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Enemy
   - Surroundings
+  - WindowEnemy
   layers:
   - Default
   - TransparentFX
@@ -17,8 +18,8 @@ TagManager:
   - PlayerInvincible
   - EnemyBackgroundCollider
   - Props
-  - 
-  - 
+  - EnemyWindow
+  - CeilingCheckLayer
   - 
   - 
   - 
