@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2ff654fa85e5d4549a598455540b52f5
+guid: 70ed8fb0985a2294b9f49879eed01ee0
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -81,6 +81,19 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -106,165 +119,89 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TilemapHouse2PNG_12
+      name: TilemapHouse6PNG_0
       rect:
         serializedVersion: 2
-        x: 96
-        y: 96
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fce7722e7f4a5fe4a8b8bf45b7722ebc
-      internalID: 1396847725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TilemapHouse2PNG_13
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 96
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1ef4aaac2041f5449b10a84fd324a952
-      internalID: -1521145233
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TilemapHouse2PNG_16
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 48
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a6f71ec44d83c94eb1f7dc6a56919a0
-      internalID: -213299447
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TilemapHouse2PNG_17
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 48
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 28eeac0f991de6343825a5ec77c8e213
-      internalID: 1992651683
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TilemapHouse2PNG_18
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 48
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 84ee3365908c3fe47b84fcf7ef79659b
-      internalID: -644883028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TilemapHouse2PNG_19
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 48
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0ddf70395988609488fa07b10ada69e2
-      internalID: 1130963861
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TilemapHouse2PNG_24
-      rect:
-        serializedVersion: 2
-        x: 192
+        x: 0
         y: 0
         width: 48
         height: 48
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46650b1be820f704eb4441fc11c016a0
-      internalID: -563187603
+      spriteID: 25067db4cb02c4f4caf7d3ece46ba64a
+      internalID: -1400891452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapHouse6PNG_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bc587031fa6394490f932d9a379761
+      internalID: -1517481261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapHouse6PNG_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abdf5de9865ad2489113057f3c3613c
+      internalID: 1705273001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilemapHouse6PNG_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c1ac7b906a04d4eb1c00f58bd3abc6
+      internalID: 1533638045
       vertices: []
       indices: 
       edges: []
@@ -280,31 +217,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TilemapHouse2PNG_0: 973457624
-      TilemapHouse2PNG_1: 1811843895
-      TilemapHouse2PNG_10: 15265214
-      TilemapHouse2PNG_11: 1666177162
-      TilemapHouse2PNG_12: 1396847725
-      TilemapHouse2PNG_13: -1521145233
-      TilemapHouse2PNG_14: -1650213283
-      TilemapHouse2PNG_15: -1435431546
-      TilemapHouse2PNG_16: -213299447
-      TilemapHouse2PNG_17: 1992651683
-      TilemapHouse2PNG_18: -644883028
-      TilemapHouse2PNG_19: 1130963861
-      TilemapHouse2PNG_2: -1664333807
-      TilemapHouse2PNG_20: 767377045
-      TilemapHouse2PNG_21: 1357915710
-      TilemapHouse2PNG_22: -539705929
-      TilemapHouse2PNG_23: 1109955557
-      TilemapHouse2PNG_24: -563187603
-      TilemapHouse2PNG_3: 1787058106
-      TilemapHouse2PNG_4: 1708466841
-      TilemapHouse2PNG_5: -1007626096
-      TilemapHouse2PNG_6: -1514579948
-      TilemapHouse2PNG_7: -203498812
-      TilemapHouse2PNG_8: -1742878861
-      TilemapHouse2PNG_9: 407118044
+      TilemapHouse6PNG_0: -1400891452
+      TilemapHouse6PNG_1: -1517481261
+      TilemapHouse6PNG_2: 1705273001
+      TilemapHouse6PNG_3: 1533638045
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
