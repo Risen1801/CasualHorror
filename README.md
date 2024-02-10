@@ -21,7 +21,7 @@ Durch drücken von der "Space" Taste kann gesprungen werden.
 Das Drücken von der "Shift" Taste lässt ihren Character kriechen.
 Die Taste "F" lässt ihre Fähigkeit im Spiel aktivieren und mit der "E" Taste können Sie mit bestimmten Dingen interagieren.
 
-## Author(s)
+## Authors
 Sophie Chiara Hebgen, Fabian Kemser, Dominik Lust
 
 ## Credits
