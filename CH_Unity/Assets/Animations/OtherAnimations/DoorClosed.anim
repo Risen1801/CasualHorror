@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SpiderWebBounceUp
+  m_Name: DoorClosed
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,13 +21,7 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 21300000, guid: 411ff1a3e453c1f44a0915465966c623, type: 3}
-    - time: 0.083333336
-      value: {fileID: 21300000, guid: 411ff1a3e453c1f44a0915465966c623, type: 3}
-    - time: 0.25
-      value: {fileID: 21300000, guid: afb10a800812be44db1ad9d3ecac56fa, type: 3}
-    - time: 0.6666667
-      value: {fileID: 21300000, guid: 5ea94730f3b7da14885bbe72ee4b954c, type: 3}
+      value: {fileID: 21300000, guid: 4f23104f3ce0fb849bebabbd9b113b14, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -50,16 +44,13 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 21300000, guid: 411ff1a3e453c1f44a0915465966c623, type: 3}
-    - {fileID: 21300000, guid: 411ff1a3e453c1f44a0915465966c623, type: 3}
-    - {fileID: 21300000, guid: afb10a800812be44db1ad9d3ecac56fa, type: 3}
-    - {fileID: 21300000, guid: 5ea94730f3b7da14885bbe72ee4b954c, type: 3}
+    - {fileID: 21300000, guid: 4f23104f3ce0fb849bebabbd9b113b14, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.68333334
+    m_StopTime: 0.016666668
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
