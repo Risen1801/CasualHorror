@@ -32,7 +32,7 @@ Supervised by Prof. Florian Machill and Prof. Sebastian Stamm
 ## Third Party Credits
 
 ### Sound
-* Background Music by [itch.io](https://alkakrab.itch.io/piano-instrumental)
+* Background Music by Alkakrab [itch.io](https://alkakrab.itch.io/piano-instrumental)
 * Sound Effects by FilmCrow [itch.io](https://filmcow.itch.io/)
 
 ### 3D Assets
