@@ -38,4 +38,4 @@ Supervised by Prof. Florian Machill and Prof. Sebastian Stamm
 ### 3D Assets
 * Bubble Emotes by Kick-in-Teeth [itch.io](https://kicked-in-teeth.itch.io/emoticons)
 * Press Start Font Family by codeman38 [1001fonts.com](https://www.1001fonts.com/press-start-font.html)
-* 2D Pixel Art Character Template Asset Pack by Zeggy [itch.io] (https://zegley.itch.io/2d-platformermetroidvania-asset-pack)
+* 2D Pixel Art Character Template Asset Pack by Zeggy [itch.io](https://zegley.itch.io/2d-platformermetroidvania-asset-pack)
