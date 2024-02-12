@@ -21,7 +21,8 @@ Durch drücken von der "Space" Taste kann gesprungen werden.
 Das Drücken von der "Shift" Taste lässt ihren Character kriechen.
 Die Taste "F" lässt ihre Fähigkeit im Spiel aktivieren und mit der "E" Taste können Sie mit bestimmten Dingen interagieren.
 
-[Itch.io](https://rrisen.itch.io/casual-horrors)
+### Download Game
+[Itch.io/rrisen](https://rrisen.itch.io/casual-horrors)
 
 ## Authors
 Sophie Chiara Hebgen, Fabian Kemser, Dominik Lust
