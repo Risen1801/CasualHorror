@@ -121,7 +121,154 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: LightNPC_TakeOffHood_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 10
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4860fbd52ee6154aab0d6072dd86a7f
+      internalID: 1286469164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightNPC_TakeOffHood_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 10
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cc74fd30d80bd44a1c7ff1098a2d83
+      internalID: 1351535338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightNPC_TakeOffHood_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 9
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43642e6a36b9b1c4b81683a6dfed2387
+      internalID: -85360083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightNPC_TakeOffHood_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 9
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e49c2cd2ae6e4149983cc60e4cf7b22
+      internalID: 1583080278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightNPC_TakeOffHood_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 9
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d34edd27da7b64f86e87eadfd6c14f
+      internalID: -1938757989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightNPC_TakeOffHood_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 10
+        width: 15
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e204ae40a0ad7445bde1aa1c09f9415
+      internalID: -755805152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightNPC_TakeOffHood_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 9
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5141286af03df42a2c25fd4f1444cd
+      internalID: -267131936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +279,14 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LightNPC_TakeOffHood_48x48_0: 1286469164
+      LightNPC_TakeOffHood_48x48_1: 1351535338
+      LightNPC_TakeOffHood_48x48_2: -85360083
+      LightNPC_TakeOffHood_48x48_3: 1583080278
+      LightNPC_TakeOffHood_48x48_4: -1938757989
+      LightNPC_TakeOffHood_48x48_5: -755805152
+      LightNPC_TakeOffHood_48x48_6: -267131936
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
