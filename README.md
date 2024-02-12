@@ -8,7 +8,7 @@ Es beinhaltet ein Spiel namens *"Casual Horror"*, welches sich um die Psychische
 Der Main Character geht durch mehrere Level, welche jeweils eine andere psychische Erkrankung wiederspiegeln und lernt in diesen Leveln verschiedene Bewältigungsmethoden kennen.
 
 Bei dem ersten Spielbaren Level handelt es sich um Depressionen. Der Spieler lernt durch interaktives Spielen die Bewältigungsmethode des "Journaling" kennen. Beim "Journaling" 
-geht es darum, seine Gedanken, Ideen, Emotionen oder Erfahrungen aufzuschreiben, quasi das führen eines Tagebuchs, dass man stätig bei sich hat. Dadurch können die meist lang anhaltenden
+geht es darum, seine Gedanken, Ideen, Emotionen oder Erfahrungen aufzuschreiben, quasi das führen eines Tagebuchs, dass man stätig bei sich hat. Dadurch können die meist lang- oder kurz anhaltenden
 physichen und psychischen Erkrankungen gelindert werden. Dabei trifft er auf mehrere NPCs (Non-Playable-Characters) und lernt ihre Geschichte besser kennen. 
 Da Depression meist ein unvorhersehbarer Weg mit vielen Hindernissen ist, haben wir auch hier darauf Wert gelegt, den Spieler mit einer düsternen Atmosphere und dem eigenständigen 
 herausfinden des Weges in unserem Level das Gefühl zu übermitteln, wie es sein kann, wenn man depressiv ist.
