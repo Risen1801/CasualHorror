@@ -32,8 +32,8 @@ Supervised by Prof. Florian Machill and Prof. Sebastian Stamm
 ## Third Party Credits
 
 ### Sound
-* Asset-Pack XY [Assetstore](https://assetstore.unity.com/)
-* Asset-Pack YZ [Assetstore](https://assetstore.unity.com/)
+* Background Music by [itch.io](https://alkakrab.itch.io/piano-instrumental)
+* Sound Effects by FilmCrow [itch.io](https://filmcow.itch.io/)
 
 ### 3D Assets
 * Bubble Emotes by Kick-in-Teeth [itch.io](https://kicked-in-teeth.itch.io/emoticons)
